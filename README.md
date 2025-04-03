@@ -1,7 +1,7 @@
 # LGN transcriptomics analysis - Human Brain Cell Atlas
 
 ## Description
-Analysis of human LGN RNA-seq data from [Siletti et al., (2023)](DOI: 10.1126/science.add7046)
+Analysis of human LGN RNA-seq data from [Siletti et al., (2023)](10.1126/science.add7046)
 
 ## Steps
 1. Download human LGN data from [cellxgene](https://cellxgene.cziscience.com/collections/283d65eb-dd53-496d-adb7-7570c7caa443) and place into /data folder
